@@ -4,6 +4,7 @@
 
 ## 演示视频
 
+[下载演示视频]
 [https://github.com/yukiyuki-git/block-tower-defense/assets/演示视频.mp4](https://github.com/yukiyuki-git/block-tower-defense/releases/download/v1.0/default.mp4)
 
 
