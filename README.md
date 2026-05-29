@@ -4,7 +4,8 @@
 
 ## 演示视频
 
-> 视频文件位于项目 assets/演示视频.mp4，下载后即可观看。
+https://github.com/yukiyuki-git/block-tower-defense/assets/演示视频.mp4
+
 
 ## 核心玩法
 
