@@ -45,3 +45,16 @@
 
 ## 项目结构
 
+├── main.gd # 主场景脚本（波次/经济/UI/输入）
+├── main.tscn # 主场景（TileMap + 摄像机）
+├── static_body_2d.tscn # 塔场景（4种塔/升级/攻击逻辑）
+├── assets/
+│ └── enemies/ # 怪物图片资源
+└── project.godot # Godot项目配置
+
+text
+text
+
+## 开发者
+
+**yukiyuki-git** | 应届毕业生
